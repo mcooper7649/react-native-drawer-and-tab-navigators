@@ -7,6 +7,8 @@ import UserScreen from './screens/UserScreen';
 
 const Drawer = createDrawerNavigator();
 
+//drawer navigation
+
 export default function App() {
   return (
     <NavigationContainer>
